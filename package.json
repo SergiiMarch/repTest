@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://SergiiMarch.github.io/test_work_8",
+  "homepage": "https://SergiiMarch.github.io/repTest",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /test_work_8/"
+    "build": "parcel build src/*.html --public-url /repTest/"
   },
   "repository": {
     "type": "git",
